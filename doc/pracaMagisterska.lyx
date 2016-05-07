@@ -11,9 +11,9 @@
 
 
 \date{2017}
-\title{Praca magisterska}
+\title{Aplikacja okienkowa sterująca systemem Jeden z Dziesięciu}
 \author{Maciej Czajkowski}
-\etitle{Master thesis}
+\etitle{Window application to control One of Ten System}
 \wykonanaw{katedrze Metod Matematycznych Informatyki}
 \ewykonanaw{XXX}
 
@@ -136,11 +136,31 @@ Curabitur congue rutrum justo nec ultrices. Ut orci lacus, dignissim sed facilis
 \end_layout
 
 \begin_layout Section
-Sekcja 1
+Proponowane rozwiązanie
 \end_layout
 
 \begin_layout Section
 Sekcja 2
+\end_layout
+
+\begin_layout Section
+Sekcja 3
+\end_layout
+
+\begin_layout Chapter
+Budowa stanowisk
+\end_layout
+
+\begin_layout Standard
+(użyte materiały etc) 
+\end_layout
+
+\begin_layout Section
+Połączenia
+\end_layout
+
+\begin_layout Section
+Przekaźniki
 \end_layout
 
 \begin_layout Section
@@ -165,6 +185,10 @@ Sekcja 2
 
 \begin_layout Section
 Sekcja 3
+\end_layout
+
+\begin_layout Chapter*
+Bibliografia
 \end_layout
 
 \end_body

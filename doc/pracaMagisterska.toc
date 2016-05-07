@@ -1,7 +1,7 @@
 \contentsline {chapter}{Wst\IeC {\k e}p}{2}
 \contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 1\relax .\kern .5em Opis problemu}{3}
 \contentsline {section}{\numberline {1.1\relax .\kern .5em }Proponowane rozwi\IeC {\k a}zanie}{3}
-\contentsline {section}{\numberline {1.2\relax .\kern .5em }Sekcja 2}{3}
+\contentsline {section}{\numberline {1.2\relax .\kern .5em }Wykorzystane technologie}{3}
 \contentsline {section}{\numberline {1.3\relax .\kern .5em }Sekcja 3}{3}
 \contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 2\relax .\kern .5em Budowa stanowisk}{4}
 \contentsline {section}{\numberline {2.1\relax .\kern .5em }Po\IeC {\l }\IeC {\k a}czenia}{4}

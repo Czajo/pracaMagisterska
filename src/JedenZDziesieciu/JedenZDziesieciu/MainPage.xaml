@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="JedenZDziesieciu.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:JedenZDziesieciu"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        
+        <Button x:Name="relay1" Content="Przełącznik 1" HorizontalAlignment="Center" Margin="99,148,543,369" VerticalAlignment="Center" Height="251" Width="382" Click="relay1_Click"/>
+        <Button x:Name="relay2" Content="Przełącznik 2" HorizontalAlignment="Center" Margin="561,148,80,369" VerticalAlignment="Center" Height="251" Width="383" Click="relay2_Click"/>
+        <Button x:Name="mix" Content="Na przemiennie" HorizontalAlignment="Center" Margin="99,449,542,111" VerticalAlignment="Center" Height="208" Width="383" Click="mix_Click"/>
+        <Button x:Name="dispatcher" Content="Dispatcher" HorizontalAlignment="Center" Margin="561,449,80,111" VerticalAlignment="Center" Height="208" Width="383" Click="dispatcher_Click"/>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/yutfguhkj.jpg"/>
+        </Grid.Background>
+    </Grid>
+</Page>
+

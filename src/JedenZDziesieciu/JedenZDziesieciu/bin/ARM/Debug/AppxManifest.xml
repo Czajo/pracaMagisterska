@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp build" xmlns:build="http://schemas.microsoft.com/developer/appx/2015/build">
+  <!--
+    PLIK MANIFESTU TEGO PROJEKTU JEST GENEROWANY PRZEZ PROCES KOMPILACJI.
+
+    Zmiany w pliku zostaną utracone podczas ponownego tworzenia pliku. W celu poprawy błędów należy edytować plik źródłowy .appxmanifest.
+
+    Po więcej informacji o plikach manifestu pakietów, zobacz http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="0f4fa454-aee4-48a2-b6b8-f39456c1258f" Publisher="CN=czajo" Version="1.0.0.0" ProcessorArchitecture="arm" />
+  <mp:PhoneIdentity PhoneProductId="0f4fa454-aee4-48a2-b6b8-f39456c1258f" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>JedenZDziesieciu</DisplayName>
+    <PublisherDisplayName>czajo</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.jpg</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10240.0" MaxVersionTested="10.0.10240.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="PL-PL" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="JedenZDziesieciu.exe" EntryPoint="JedenZDziesieciu.App">
+      <uap:VisualElements DisplayName="JedenZDziesieciu" Square150x150Logo="Assets\Square150x150Logo.jpg" Square44x44Logo="Assets\Square44x44Logo.jpg" Description="JedenZDziesieciu" BackgroundColor="transparent">
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.jpg" Square71x71Logo="Assets\Square71x71Logo.jpg" Square310x310Logo="Assets\Square310x310Logo.jpg">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square150x150Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
+            <uap:ShowOn Tile="square310x310Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="Assets\SplashScreen.jpg" />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+  <build:Metadata>
+    <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
+    <build:Item Name="VisualStudio" Version="14.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2015" />
+    <build:Item Name="OperatingSystem" Version="10.0.14393.0 (rs1_release.160715-1616)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.25431.1" />
+    <build:Item Name="ProjectGUID" Value="{A64B44DA-6543-4A58-B7F9-276EA146CC3C}" />
+    <build:Item Name="OptimizingToolset" Value="None" />
+    <build:Item Name="TargetRuntime" Value="Managed" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="14.0.25527.1" />
+    <build:Item Name="WindowsIoT" Version="10.0.10240.0" />
+    <build:Item Name="MakePri.exe" Version="10.0.14393.33 (rs1_release_sec.160727-1952)" />
+  </build:Metadata>
+</Package>

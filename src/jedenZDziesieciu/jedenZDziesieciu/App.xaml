@@ -1,8 +1,8 @@
 ﻿<Application
-    x:Class="jedenZDziesieciu.App"
+    x:Class="JedenZDziesieciu.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:jedenZDziesieciu"
+    xmlns:local="using:JedenZDziesieciu"
     RequestedTheme="Light">
 
 </Application>

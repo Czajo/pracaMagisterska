@@ -1,18 +1,21 @@
 \contentsline {chapter}{Wst\IeC {\k e}p}{2}
-\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 1\relax .\kern .5em Opis problemu}{3}
-\contentsline {section}{\numberline {1.1\relax .\kern .5em }Proponowane rozwi\IeC {\k a}zanie}{3}
-\contentsline {section}{\numberline {1.2\relax .\kern .5em }Wykorzystane technologie}{3}
-\contentsline {subsection}{\numberline {1.2.1\relax .\kern .5em }C-sharp}{3}
-\contentsline {section}{\numberline {1.3\relax .\kern .5em }Sekcja 3}{3}
-\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 2\relax .\kern .5em Budowa stanowisk}{4}
-\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 3\relax .\kern .5em Projekt systemu}{5}
-\contentsline {section}{\numberline {3.1\relax .\kern .5em }Po\IeC {\l }\IeC {\k a}czenia}{5}
-\contentsline {section}{\numberline {3.2\relax .\kern .5em }Przeka\IeC {\'z}niki}{5}
-\contentsline {section}{\numberline {3.3\relax .\kern .5em }Sekcja 3}{5}
-\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 4\relax .\kern .5em Implementacja}{6}
-\contentsline {section}{\numberline {4.1\relax .\kern .5em }Sprz\IeC {\k e}t (Raspberry Pi)}{6}
-\contentsline {section}{\numberline {4.2\relax .\kern .5em }Sekcja 2}{6}
-\contentsline {section}{\numberline {4.3\relax .\kern .5em }Sekcja 3}{6}
-\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 5\relax .\kern .5em Instrukcja uruchomienia}{7}
-\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 6\relax .\kern .5em Podsumowanie}{8}
-\contentsline {chapter}{Bibliografia}{9}
+\contentsline {section}{\numberline {0.1\relax .\kern .5em }Most Obrotowy w Gi\IeC {\.z}ycku}{2}
+\contentsline {section}{\numberline {0.2\relax .\kern .5em }Cel pracy}{3}
+\contentsline {section}{\numberline {0.3\relax .\kern .5em }Zakres pracy}{3}
+\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 1\relax .\kern .5em Opis problemu}{5}
+\contentsline {section}{\numberline {1.1\relax .\kern .5em }Proponowane rozwi\IeC {\k a}zanie}{5}
+\contentsline {section}{\numberline {1.2\relax .\kern .5em }Wykorzystane technologie}{5}
+\contentsline {subsection}{\numberline {1.2.1\relax .\kern .5em }C-sharp}{5}
+\contentsline {section}{\numberline {1.3\relax .\kern .5em }Sekcja 3}{5}
+\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 2\relax .\kern .5em Budowa stanowisk}{6}
+\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 3\relax .\kern .5em Projekt systemu}{7}
+\contentsline {section}{\numberline {3.1\relax .\kern .5em }Po\IeC {\l }\IeC {\k a}czenia}{7}
+\contentsline {section}{\numberline {3.2\relax .\kern .5em }Przeka\IeC {\'z}niki}{7}
+\contentsline {section}{\numberline {3.3\relax .\kern .5em }Sekcja 3}{7}
+\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 4\relax .\kern .5em Implementacja}{8}
+\contentsline {section}{\numberline {4.1\relax .\kern .5em }Sprz\IeC {\k e}t (Raspberry Pi)}{8}
+\contentsline {section}{\numberline {4.2\relax .\kern .5em }Sekcja 2}{8}
+\contentsline {section}{\numberline {4.3\relax .\kern .5em }Sekcja 3}{8}
+\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 5\relax .\kern .5em Instrukcja uruchomienia}{9}
+\contentsline {chapter}{Rozdzia\PlPrIeC {\l }\ 6\relax .\kern .5em Podsumowanie}{10}
+\contentsline {chapter}{Bibliografia}{11}
